@@ -1,9 +1,10 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(57, 55, 179);
   overflow: scroll;
   text-align: center;
   overflow: hidden;
+  font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
 }
 
 .container {
@@ -36,6 +37,7 @@
 
 .sub-text {
   font-size: 25px;
+  font: italic;
 }
 
 .gradient-text {
@@ -115,31 +117,39 @@
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @-moz-keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
