@@ -1,0 +1,19 @@
+{
+    "name": "アイアンマン",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Go95F9KTQW7DBNqUPP9C9Gukvz4mSfCZPf5vshCE6pcQ",
+                "share": 100
+            }
+        ]
+    }
+}

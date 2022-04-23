@@ -1,11 +1,13 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  color: aqua;
 }
 
 .gif-container {
   display: flex;
   flex-direction: column;
+  color: aqua;
 }
 
 .gif-grid {
@@ -23,11 +25,12 @@
   position: relative;
   justify-self: center;
   align-self: center;
+  color: aliceblue;
 }
 
 .gif-item img {
   width: 100%;
-  height: 200px;
+  height: 2000px;
   border-radius: 10px;
   object-fit: cover;
 }
